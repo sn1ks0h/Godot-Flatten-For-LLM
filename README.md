@@ -1,3 +1,5 @@
+![Thumbnail](featured_image.webp)
+
 **Flatten for LLM** is a seamless, Godot plugin designed to bridge the gap between your game project and Large Language Models (LLMs).
 
 When asking an AI for help with complex game logic or refactoring, pasting individual scripts often misses the bigger picture of how your scenes and resources connect. This plugin solves that by recursively crawling your project and compiling everything into a single, beautifully formatted Markdown document. The resulting file mimics your exact folder structure using Markdown headings, giving the LLM perfect structural awareness of your entire codebase.
